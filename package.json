@@ -1,0 +1,16 @@
+{
+  "name": "mongodb-example",
+  "version": "1.0.0",
+  "description": "Example of Node.js mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Retorillo",
+  "license": "MIT",
+  "dependencies": {
+    "logplease": "^1.0.0",
+    "mongodb": "^2.1.16",
+    "object-stringify": "^0.1.4"
+  }
+}
